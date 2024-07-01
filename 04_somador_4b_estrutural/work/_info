@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/souza/Desktop/vhdl/03_alu
+Esomador4b
+Z0 w1718398968
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural
+Z4 8C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somador4b.vhd
+Z5 FC:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somador4b.vhd
+l0
+L11
+VK_^4z0XgC:RJbeQJI<lO60
+!s100 Ri?So1<2U@_Yd>;0E2JHT0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1718399172
+!i10b 1
+Z8 !s108 1718399172.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somador4b.vhd|
+Z10 !s107 C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somador4b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Astucture
+R1
+R2
+DEx4 work 9 somador4b 0 22 K_^4z0XgC:RJbeQJI<lO60
+l33
+L22
+VmUD5hX:FDno^XThDn?oY10
+!s100 ^RCdj8[[XIRMVVT`93gSo0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esomadorcompleto
+Z13 w1718398256
+R1
+R2
+R3
+Z14 8C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somadorcompleto.vhd
+Z15 FC:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somadorcompleto.vhd
+l0
+L10
+VC_SnhdLj;[zH@88bhDHR[1
+!s100 n]B7kP1k=k_dB<_FUfzz92
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somadorcompleto.vhd|
+Z17 !s107 C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somadorcompleto.vhd|
+!i113 1
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 15 somadorcompleto 0 22 C_SnhdLj;[zH@88bhDHR[1
+l19
+L18
+VOj=Be6nfHV1k8KQ_E=:oc3
+!s100 Z?g11]QJ8izggn]:2Y=>93
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12

@@ -1,0 +1,17 @@
+C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somador4b.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somador4b.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somador4b
+-- Compiling architecture stucture of somador4b
+
+} {} {}} C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somadorcompleto.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/souza/Desktop/vhdl/04_somador_4b_estrutural/somadorcompleto.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity somadorcompleto
+-- Compiling architecture dataflow of somadorcompleto
+
+} {} {}}

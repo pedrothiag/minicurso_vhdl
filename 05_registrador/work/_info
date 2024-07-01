@@ -1,0 +1,49 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/souza/Desktop/memoria
+Ereg4b
+Z0 w1718820913
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/souza/Desktop/vhdl/05_registrador
+Z4 8C:/Users/souza/Desktop/vhdl/05_registrador/reg4b.vhd
+Z5 FC:/Users/souza/Desktop/vhdl/05_registrador/reg4b.vhd
+l0
+L10
+V4Pg5ibTRNA?zXB4B0GaLf0
+!s100 Wi^iXJEDF2lQTeFk^6[`=3
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1718820984
+!i10b 1
+Z8 !s108 1718820984.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/souza/Desktop/vhdl/05_registrador/reg4b.vhd|
+Z10 !s107 C:/Users/souza/Desktop/vhdl/05_registrador/reg4b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Acomportamento
+R1
+R2
+Z13 DEx4 work 5 reg4b 0 22 4Pg5ibTRNA?zXB4B0GaLf0
+l20
+L19
+Z14 V?YR5n_?jj8ZDJGYX=Y@Fi1
+Z15 !s100 GG3[88J2m2jLXl;NR5zoT0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
